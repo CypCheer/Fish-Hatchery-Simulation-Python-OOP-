@@ -1,4 +1,4 @@
-# EMATMOO48-Part 1: Fish Hatchery Simulation Project
+# Fish Hatchery Simulation Project
 
 ## Overview
 
